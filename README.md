@@ -128,7 +128,7 @@ latitude,longitude,timestamp
 ### Folder Structure
 
 ```
-gps-tracker-challenge/
+coding-challenge/
 │
 ├── backend/
 │   ├── src/
