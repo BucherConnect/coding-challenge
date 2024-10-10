@@ -2,7 +2,7 @@
 
 
 # Coding Challenge 
-![Bucher Municipal Logo](https://bucher.assetbank-server.com/assetbank-bucher/images/standard/logo.png)
+[![Bucher Municipal Logo](https://bucher.assetbank-server.com/assetbank-bucher/images/standard/logo.png)](https://www.buchermunicipal.com/)
 
 ---
 
