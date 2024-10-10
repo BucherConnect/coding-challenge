@@ -151,13 +151,14 @@ coding-challenge/
     ├── index.html                        # HTML root for the React app
     ├── src/
     │   ├── components/
+    │   │   ├── MapGrid.scss              # SCSS for the grid layout
     │   │   └── MapGrid.tsx               # Renders the grid of maps for each session
     │   ├── services/
     │   │   └── gpsApi.ts                 # API service to fetch GPS data
     │   ├── App.tsx                       # Main React component
     │   ├── main.tsx                      # React app entry point
     │   ├── constants.ts                  # Stores the Mapbox access token
-    │   └── styles.css                    # CSS for the grid layout
+    │   └── styles/                       # Global SCSS 
     └── package.json                      # Frontend dependencies and scripts
 ```
 
